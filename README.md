@@ -40,9 +40,6 @@ data/                Asset locations and access notes
 Each script's header lists the required input assets and outputs it produces.
 Scripts are numbered to indicate execution order.
 
-**Python pipeline**: Requires `earthengine-api`, `scikit-learn`, `rasterio`,
-`pandas`, `matplotlib`, `seaborn`, `joblib`. See `python/rf_landtrendr_classification.py`
-for the full workflow.
 
 ## Author
 
