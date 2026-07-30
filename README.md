@@ -5,6 +5,7 @@ and Random Forest classification to track woody plant cover change across
 ~79 km² of ranch grassland in Tongue Creek Ranch and OH Ranch, Alberta/Saskatchewan.
 
 ## Overview
+![NDVI trajectories by woody cover class](docs/figures/ndvi-trajectories.png)
 
 Woody plant encroachment threatens grassland ecosystems across the northern
 Great Plains. This project quantifies four decades of change using annual
