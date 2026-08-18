@@ -30,6 +30,7 @@ gee-scripts/         GEE JavaScript scripts (run in Code Editor)
   01_data-prep/      Landsat compositing and scene filtering
   02_landtrendr/     LandTrendr fitting and multi-band export
   03_sampling/       Field-site sampling and diagnostics
+Colab-scripts/
 python/              Random Forest training and multi-year prediction
 docs/                Extended methodology, figures
 data/                Asset locations and access notes
@@ -41,6 +42,7 @@ data/                Asset locations and access notes
 Each script's header lists the required input assets and outputs it produces.
 Scripts are numbered to indicate execution order.
 
+**Colab scripts**: Copy the contents into the Colab notebook.
 
 ## Author
 
